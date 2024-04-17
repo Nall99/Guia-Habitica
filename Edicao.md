@@ -1,4 +1,4 @@
-# Edição de avatar
+# <a name="#EdicaoAvatar"></a>Edição de avatar
 #### 1.
 Acessar o menu de perfil
 ![Passo 1](https://github.com/Nall99/Guia-Habitica/blob/main/EdicaoAvatar/1.png)
