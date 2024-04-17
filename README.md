@@ -12,6 +12,26 @@ Esse repositório tem como objetivo ser um guia para o Habitica. Se tiver falta 
 
 ---
 
+# Atributos
+* [Força](#força)
+* [Inteligência](#inteligência)
+* [Percepção](#percepção)
+* [Constituição](#constituição)
+
+### Força
+Este atributo aumenta a chance de um jogador lançar um golpe crítico ao marcar como feita uma tarefa. Também aumenta o bônus gerado pelos golpes críticos. Por fim, também aumenta o dano realizado em boss.
+
+### Inteligência
+Maior Inteligência faz com que o jogador ganhe mais pontos de experiência ao realizar suas tarefas, o que significa que eles vão passar de nível mais rápido. Também aumenta o máximo de pontos de mana e a taxa de regeneração dela.
+
+### Percepção
+Este atributo aumenta a chance de encontrar drops (incluindo itens de missões de coleta ) ao completar tarefas, o máximo de drops e os bônus de combo bem como o ouro recompensado por cada tarefas completada.
+
+### Constituição
+Ter uma maior constituição reduz o montante de dano (perda de vida) recebido por não cumprir _suas próprias_  Tarefas Diárias e/ou clicando no negativo dos Hábitos (por exemplo, comer besteiras). Constituição _não_ reduz o dano recebido do boss. Em outras palavras, o dano do boss é calculado sem levar em conta a Constituição de nenhum jogador, não importando se o dano vem de diária não cumprida sua ou de alguém do seu grupo.
+
+---
+
 # Edição de Avatar
 
 ### Acessar o menu de perfil
@@ -154,23 +174,3 @@ Nela você pode adicionar outras tarefas dentro dela, que vão vim com uma caixa
 - **Nível 12** Facada nas Costas: Você ganha ouro e EXP
 - **Nível 13** Ferramentas do Ofício: Seu grupo inteiro ganha um buff na Percepção
 - **Nível 14** Furtividade: Algumas de suas Diárias não feitas não causarão dano hoje e seus combos e cor não irão mudar
-
----
-
-# Atributos
-* [Força](#força)
-* [Inteligência](#inteligência)
-* [Percepção](#percepção)
-* [Constituição](#constituição)
-
-### Força
-Este atributo aumenta a chance de um jogador lançar um golpe crítico ao marcar como feita uma tarefa. Também aumenta o bônus gerado pelos golpes críticos. Por fim, também aumenta o dano realizado em boss.
-
-### Inteligência
-Maior Inteligência faz com que o jogador ganhe mais pontos de experiência ao realizar suas tarefas, o que significa que eles vão passar de nível mais rápido. Também aumenta o máximo de pontos de mana e a taxa de regeneração dela.
-
-### Percepção
-Este atributo aumenta a chance de encontrar drops (incluindo itens de missões de coleta ) ao completar tarefas, o máximo de drops e os bônus de combo bem como o ouro recompensado por cada tarefas completada.
-
-### Constituição
-Ter uma maior constituição reduz o montante de dano (perda de vida) recebido por não cumprir _suas próprias_  Tarefas Diárias e/ou clicando no negativo dos Hábitos (por exemplo, comer besteiras). Constituição _não_ reduz o dano recebido do boss. Em outras palavras, o dano do boss é calculado sem levar em conta a Constituição de nenhum jogador, não importando se o dano vem de diária não cumprida sua ou de alguém do seu grupo.
