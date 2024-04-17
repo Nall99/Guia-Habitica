@@ -6,4 +6,4 @@ Esse repositório tem como objetivo ser um guia para o Habitica. Se tiver falta 
 ## Edição de Avatar
 
 # <a name="#Edi"></a>
-[link](#guia-habitica)
+[link](https://github.com/Nall99/Guia-Habitica/blob/main/Edicao.md#EdicaoAvatar)
