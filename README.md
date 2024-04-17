@@ -3,3 +3,7 @@ Esse repositório tem como objetivo ser um guia para o Habitica. Se tiver falta 
 
 ---
 
+## Edição de Avatar
+
+# <a name="#Edi"></a>
+[link](#guia-habitica)
