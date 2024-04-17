@@ -70,6 +70,7 @@ No campo ***Adicionar Hábito*** você pode digitar seu hábito e depois apertar
 #### Editando Hábito
 
 Acesse clicando nos 3 pontinhos e depois em editar
+
 ![edição hábito](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Habito-edicao.png)
 
 ##### + e -
@@ -85,6 +86,7 @@ No campo ***Adicionar Diária***  você pode digitar sua Diária e depois aperta
 
 #### Editando Diária
 Acesse clicando nos 3 pontinhos e depois em editar
+
 ![diária edição](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Diarias-edicao.png)
 
 ##### Lista de Tarefas
@@ -107,6 +109,7 @@ No campo ***Adicionar Afazer***  você pode digitar seu Afazer e depois apertar 
 
 #### Editando Afazer
 Acesse clicando nos 3 pontinhos e depois em editar
+
 ![afazer edição](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Afazeres-edicao.png)
 
 ##### Lista de tarefas
