@@ -63,14 +63,14 @@ Em todo caso todos os tipos de tarefas têm:
 *  **Etiqueta**: Serve para você categorizar suas tarefas
 
 ### Hábitos
-![hábito]()
+![hábito](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Habito.png)
 
 No campo ***Adicionar Hábito*** você pode digitar seu hábito e depois apertar *ENTER* dessa forma você vai adiciona-lo
 
 #### Editando Hábito
 
 Acesse clicando nos 3 pontinhos e depois em editar
-![edição hábito]()
+![edição hábito](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Habito-edicao.png)
 
 ##### + e -
 Temos + *Positivo* e o - *Negativo*, servem como contador da sua pontuação toda vez que você for fazer aquele hábito aperte no +. Se você definir uma quantidade por dia que vc deve fazer aquele hábito e não cumprir você pode apertar no -
@@ -79,13 +79,13 @@ Temos + *Positivo* e o - *Negativo*, servem como contador da sua pontuação tod
 Nela você têm as opções: diária, semanalmente e mensalmente. Onde seu contador vai resetar a cada dia, a cada semana ou a cada mês, respectivamente.
 
 ### Diárias
-![diária]()
+![diária](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Diarias.png)
 
 No campo ***Adicionar Diária***  você pode digitar sua Diária e depois apertar *ENTER* dessa forma você vai adiciona-la
 
 #### Editando Diária
 Acesse clicando nos 3 pontinhos e depois em editar
-![diária edição]()
+![diária edição](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Diarias-edicao.png)
 
 ##### Lista de Tarefas
 Você pode criar outras tarefas dentro da sua diária. Essas tarefas vão vim com um caixas que podem ser marcadas
@@ -101,13 +101,13 @@ Junto a repetição tem ***A cada*** que vai representar quantas vezes você que
 Embaixo vai depender da opção que selecionou em ***repetição***. Mas no geral vai servir para você configurar de modo um pouco mais específico
 
 ### Afazeres
-![afazeres]()
+![afazeres](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Afazeres.png)
 
 No campo ***Adicionar Afazer***  você pode digitar seu Afazer e depois apertar *ENTER* dessa forma você vai adiciona-la
 
 #### Editando Afazer
 Acesse clicando nos 3 pontinhos e depois em editar
-![afazer edição]()
+![afazer edição](https://github.com/Nall99/Guia-Habitica/blob/main/Tarefas/Afazeres-edicao.png)
 
 ##### Lista de tarefas
 Nela você pode adicionar outras tarefas dentro dela, que vão vim com uma caixa que pode ser marcada, quando a tarefa for realizada.
